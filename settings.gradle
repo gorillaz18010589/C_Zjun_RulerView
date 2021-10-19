@@ -1,0 +1,2 @@
+rootProject.name = "C_Zjun_RulerView"
+include ':app'
